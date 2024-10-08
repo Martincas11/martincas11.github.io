@@ -1672,6 +1672,10 @@ p.excerpt {
   height: 450px;
 }
 
+.single-artcile-bg-cibersec {
+  background-image: url(../img/latest-news/cibersec1.jpg);
+  height: 450px;
+}
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1703,6 +1707,14 @@ p.excerpt {
 }
 
 .single-artcile-bg {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-cibersec {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
