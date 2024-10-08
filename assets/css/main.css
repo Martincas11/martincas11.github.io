@@ -1672,6 +1672,11 @@ p.excerpt {
   height: 450px;
 }
 
+.single-artcile-kyle {
+  background-image: url(../img/latest-news/news-bg-2.jpg);
+  height: 380px;
+}
+
 .single-artcile-bg-cibersec {
   background-image: url(../img/latest-news/cibersec1.jpg);
   height: 450px;
@@ -1715,6 +1720,14 @@ p.excerpt {
 }
 
 .single-artcile-bg-cibersec {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-kyle {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
