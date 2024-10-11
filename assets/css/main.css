@@ -1598,19 +1598,19 @@ div.owl-controls, .owl-controls div {
 }
 
 .news-bg-3 {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+  background-image: url(../img/latest-news/news-bg-3.gif);
 }
 
 .news-bg-4 {
-  background-image: url(../img/latest-news/news-bg-4.jpg);
+  background-image: url(../img/latest-news/news-bg-4.webp);
 }
 
 .news-bg-5 {
-  background-image: url(../img/latest-news/news-bg-5.jpg);
+  background-image: url(../img/latest-news/Ciberseguridad.webp);
 }
 
 .news-bg-6 {
-  background-image: url(../img/latest-news/news-bg-6.jpg);
+  background-image: url(../img/latest-news/Cartel.webp);
 }
 
 .latest-news-bg {
@@ -1673,7 +1673,7 @@ p.excerpt {
 }
 
 .single-artcile-kyle {
-  background-image: url(../img/latest-news/news-bg-2.jpg);
+  background-image: url(../img/latest-news/news-bg-1.jpg);
   height: 380px;
 }
 
@@ -1681,6 +1681,32 @@ p.excerpt {
   background-image: url(../img/latest-news/cibersec1.jpg);
   height: 450px;
 }
+
+.single-artcile-bg-rayban {
+  background-image: url(../img/latest-news/news-bg-2.jpg);
+  height: 450px;
+}
+
+.single-artcile-bg-Vehiculos {
+  background-image: url(../img/latest-news/news-bg-3.gif);
+  height: 450px;
+}
+
+.single-artcile-bg-doxing {
+  background-image: url(../img/latest-news/news-bg-4.webp);
+  height: 450px;
+}
+
+.single-artcile-bg-mexico {
+  background-image: url(../img/latest-news/Ciberseguridad.webp);
+  height: 450px;
+}
+
+.single-artcile-bg-cartel {
+  background-image: url(../img/latest-news/Cartel.webp);
+  height: 450px;
+}
+
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1727,7 +1753,47 @@ p.excerpt {
   margin-bottom: 20px;
 }
 
+.single-artcile-bg-rayban {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
 .single-artcile-bg-kyle {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-Vehiculos {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-doxing {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-mexico {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bg-cartel {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
